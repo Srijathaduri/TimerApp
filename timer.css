@@ -73,7 +73,18 @@
     outline: none;
     box-shadow: none;
 }
+
 .TimerHeading {
     font-size: 50px;
     margin-top: 50px;
+}
+.button{
+    height:46px;
+    width:146px;
+    font-size: 15px;
+}
+.timerName{
+    font-size: 25px;
+    margin: 15px;
+    font-weight: bold;
 }
